@@ -1,1 +1,1 @@
-print('script-script')
+print('script')
