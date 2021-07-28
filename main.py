@@ -4,5 +4,5 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('PyCharm')
-    for i in range(5)
+    for i in range(5):
         print(i)
